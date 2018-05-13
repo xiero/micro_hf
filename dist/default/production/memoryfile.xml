@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+  <executable name="dist/default/production\HF_Mikro.production.hex">
+    <memory name="program">
+      <units>words</units>
+      <length>32768</length>
+      <used>2808</used>
+      <free>29960</free>
+    </memory>
+    <memory name="data">
+      <units>bytes</units>
+      <length>4096</length>
+      <used>88</used>
+      <free>4008</free>
+    </memory>
+  </executable>
+</project>

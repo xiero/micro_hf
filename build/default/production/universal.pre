@@ -1,0 +1,8 @@
+
+# 1 "universal.c"
+
+# 27 "universal.h"
+extern int holder;
+
+# 10 "universal.c"
+int holder;
